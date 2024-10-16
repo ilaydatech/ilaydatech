@@ -15,10 +15,5 @@
 <div style="text-align: center;">
     <h2>📫 Say Hello</h2>
     <p>I'm seeking a new opportunity for remote work. My inbox is open to anyone interested in discussing a project or just wanting to say hi!</p>
-    <a href="mailto:youremail@gmail.com" style="text-decoration: none;">
-        <div style="display: inline-flex; align-items: center; background-color: #d93025; color: white; padding: 8px 16px; border-radius: 4px; font-weight: bold;">
-            <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Gmail" style="width: 20px; height: 20px; margin-right: 8px;">
-            Gmail
-        </div>
-    </a>
+<a href="mailto:ilaydatech@gmail.com"><img src="https://camo.githubusercontent.com/2d9e4b99043c045db978a64e6a84988a954e874acca91b1a8ef5e20a2331e09a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4431343833363f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 </div>
