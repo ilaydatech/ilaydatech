@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ilayda, a Full Stack Developer 👋</h1>
-<h3 align="center">I am a programmer who is passionate about writing code, problem solving, software development.</h3>
+<h1>Hi 👋, I'm ilayda, a Full Stack Developer 👋</h1>
+<h3>I am a programmer who is passionate about writing code, problem solving, software development.</h3>
 
 - 📫 How to reach me **ilaydatech@gmail.com**
 
