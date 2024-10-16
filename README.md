@@ -15,9 +15,10 @@
 <div style="text-align: center;">
     <h2>📫 Say Hello</h2>
     <p>I'm seeking a new opportunity for remote work. My inbox is open to anyone interested in discussing a project or just wanting to say hi!</p>
-    <a href="mailto:ilaydatech@gmail.com" style="text-decoration: none;">
-        <button style="background-color: #d14836; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
-            <img src="https://www.gstatic.com/images/branding/product/1x/gmail_2020q4_48dp.png" alt="Gmail" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 10px;">Gmail
-        </button>
+    <a href="mailto:youremail@gmail.com" style="text-decoration: none;">
+        <div style="display: inline-flex; align-items: center; background-color: #d93025; color: white; padding: 8px 16px; border-radius: 4px; font-weight: bold;">
+            <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Gmail" style="width: 20px; height: 20px; margin-right: 8px;">
+            Gmail
+        </div>
     </a>
 </div>
